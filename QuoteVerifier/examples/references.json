@@ -1,0 +1,12 @@
+[
+  {
+    "name": "smoke-test: paper title",
+    "arxiv_id": "1706.03762v1",
+    "quote": "Attention Is All You Need"
+  },
+  {
+    "name": "smoke-test: legacy physics paper title",
+    "arxiv_id": "hep-th/9711200v3",
+    "quote": "The Large N Limit of Superconformal field theories and supergravity"
+  }
+]
